@@ -38,6 +38,7 @@ jekyll_plugins:
 # - cartazzi
 #
 
+permalink: /:categories/:title/
 
 theme: minima
 plugins:
